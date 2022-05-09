@@ -696,6 +696,6 @@ export const textTitle = [
   {
     title: "lang-change",
     eng: "To switch the language combination: super + tab",
-    ru: "Для переключения языка комбинация: левыe super + tab",
+    ru: "Для переключения языка комбинация:  super + tab",
   },
 ];
